@@ -2,7 +2,11 @@
 
 **A Python visualization of Benoît Mandelbrot's snowflake sweep, from a single segment to an increasingly intricate fractal curve.**
 
-**[Watch the animation (MP4)](./mandeltree.mp4)**
+## Watch the Animation
+
+[![Mandeltree Fractal | Recursive Geometry Animation](mandeltree-preview.png)](https://youtu.be/6RIS5AWMGHY)
+
+[Download MP4](https://raw.githubusercontent.com/spjarrad/mandeltree-visualization/main/mandeltree.mp4)
 
 ## What is the Mandeltree?
 
