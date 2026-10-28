@@ -56,6 +56,14 @@ Install **FFmpeg** separately and ensure it is available on your system's `PATH`
 
 Beware! Start with a low `MAX_LEVEL` when experimenting: the number of segments grows exponentially, so higher levels can require substantial memory and rendering time.
 
+## Author
+
+Spencer Jarrad
+
+Python implementation, recursive geometry, and animation.
+
+This project is based on the mathematical constructions of Benoît Mandelbrot, with additional references credited below.
+
 ## Mathematical references
 
 - Mandelbrot, Benoît. “Des monstres de Cantor et de Peano à la géométrie fractale de la nature.” In Penser les mathématiques, edited by François Guénard and Gilbert Lelièvre, pp. 226–251. Paris: Éditions du Seuil, 1982.
