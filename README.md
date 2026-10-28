@@ -4,7 +4,7 @@
 
 ## Watch the Animation
 
-[![Mandeltree Fractal | Recursive Geometry Animation](mandeltree-preview.jpg)](https://youtu.be/6RIS5AWMGHY)
+[![Mandeltree Fractal | Recursive Geometry Animation](mandeltree-preview.jpg)](https://youtu.be/XLvz7HsbB64)
 
 [Download MP4](https://raw.githubusercontent.com/spjarrad/mandeltree-visualization/main/mandeltree.mp4)
 
